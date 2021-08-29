@@ -1,0 +1,6 @@
+.header {
+  margin: 3% 0 0 5%;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
